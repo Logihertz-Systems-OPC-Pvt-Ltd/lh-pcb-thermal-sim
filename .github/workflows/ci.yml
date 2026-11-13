@@ -42,4 +42,4 @@ jobs:
           python3 bin/lh-pcb-thermal scan fixtures/hardened_pcb_policy.json --format sarif
           python3 bin/lh-pcb-thermal simulate fixtures/sample_jetson_carrier_board.json --heatmap
           python3 bin/lh-pcb-thermal calc-stackup fixtures/sample_jetson_carrier_board.json
-          python3 bin/lh-pcb-thermal ipc2152 --current-amps 10.0 --width-mm 3.0
+          python3 bin/lh-pcb-thermal ipc2152 --current-amps 5.0 --width-mm 3.0
