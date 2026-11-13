@@ -1,0 +1,23 @@
+{
+  "policy_id": "HARDENED-AERO-THERMAL-01",
+  "board_name": "Jetson-Robotics-Carrier-V3",
+  "max_junction_temp_c": 82.5,
+  "tj_derating_margin_c": 22.5,
+  "max_board_temp_c": 74.0,
+  "fr4_tg_temp_c": 170.0,
+  "otp_hardware_cutoff_enabled": true,
+  "otp_cutoff_temp_c": 105.0,
+  "thermal_via_count_per_watt": 6.5,
+  "via_plating_thickness_um": 25.0,
+  "max_trace_temp_rise_c": 11.5,
+  "power_layer_copper_oz": 2.0,
+  "max_thermal_gradient_c_per_mm": 2.2,
+  "min_power_ic_spacing_mm": 8.0,
+  "precision_analog_thermal_isolation": true,
+  "fdm_convergence_tol_c": 0.001,
+  "grid_pitch_mm": 2.0,
+  "tim_thermal_resistance_c_per_w": 0.35,
+  "worst_case_ambient_verified": true,
+  "ir_thermography_verified": true,
+  "pmic_temp_telemetry_logged": true
+}

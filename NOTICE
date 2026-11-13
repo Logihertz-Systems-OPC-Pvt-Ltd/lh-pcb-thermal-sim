@@ -1,0 +1,11 @@
+Logihertz PCB Thermal Simulator (lh-pcb-thermal-sim)
+Copyright (c) 2026 Logihertz Systems (OPC) Private Limited.
+All rights reserved.
+
+Developer & Maintainer: Sameer Tawade <ops@logihertz.com>
+Homepage: https://logihertz.com/
+Repository: https://github.com/Logihertz-Systems-OPC-Pvt-Ltd/lh-pcb-thermal-sim
+
+This product includes software engineered by Logihertz Systems (OPC) Private Limited
+for multi-layer PCB 2D finite-difference thermal simulation, anisotropic stackup
+conductivity calculation, IPC-2152 trace heating, and hardware thermal reliability auditing.

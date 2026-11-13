@@ -1,0 +1,23 @@
+{
+  "policy_id": "VULNERABLE-AERO-THERMAL-01",
+  "board_name": "Jetson-Robotics-Carrier-V3",
+  "max_junction_temp_c": 112.0,
+  "tj_derating_margin_c": 8.0,
+  "max_board_temp_c": 125.0,
+  "fr4_tg_temp_c": 135.0,
+  "otp_hardware_cutoff_enabled": false,
+  "otp_cutoff_temp_c": 125.0,
+  "thermal_via_count_per_watt": 2.0,
+  "via_plating_thickness_um": 15.0,
+  "max_trace_temp_rise_c": 28.5,
+  "power_layer_copper_oz": 0.5,
+  "max_thermal_gradient_c_per_mm": 4.8,
+  "min_power_ic_spacing_mm": 3.0,
+  "precision_analog_thermal_isolation": false,
+  "fdm_convergence_tol_c": 0.05,
+  "grid_pitch_mm": 3.5,
+  "tim_thermal_resistance_c_per_w": 0.75,
+  "worst_case_ambient_verified": false,
+  "ir_thermography_verified": false,
+  "pmic_temp_telemetry_logged": false
+}
